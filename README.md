@@ -2,6 +2,12 @@
 
 把一支螢幕操作錄影（MP4）做成可以直接分享的 **GIF 動畫教學**（同時輸出 MP4）的 Claude skill。
 
+## 示範
+
+以 MOSS-TTS-Nano ONNX Demo 的操作錄影製作（約 50 秒）：
+
+![MOSS-TTS-Nano 操作教學 GIF](examples/moss-tts-nano-demo.gif)
+
 ## 成品效果
 
 - 開頭標題字卡、每個步驟前的 STEP 字卡、結尾流程回顧字卡
