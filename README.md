@@ -2,6 +2,10 @@
 
 把一支螢幕操作錄影（MP4）做成可以直接分享的 **GIF 動畫教學**（同時輸出 MP4）的 Claude skill。
 
+## 介紹短影音
+
+52 秒直式介紹影片（用途、安裝、使用方式）：[examples/intro-short.mp4](examples/intro-short.mp4)
+
 ## 示範
 
 以 MOSS-TTS-Nano ONNX Demo 的操作錄影製作（約 50 秒）：
