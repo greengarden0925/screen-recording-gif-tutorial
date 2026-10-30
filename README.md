@@ -4,7 +4,7 @@
 
 ## 介紹短影音
 
-52 秒直式介紹影片（用途、安裝、使用方式）：[examples/intro-short.mp4](examples/intro-short.mp4)
+55 秒直式介紹影片（用途、安裝、使用方式）：[examples/intro-short.mp4](examples/intro-short.mp4)
 
 ## 示範
 
